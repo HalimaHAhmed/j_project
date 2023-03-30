@@ -34,7 +34,7 @@ let titleDiv = document.getElementById('title')
 
 console.log('before: ', titleDiv.innerText)
 
-let message = 'Square Color Counter 🚀'
+let message = 'Square Color Counter '
 
 titleDiv.innerText = message;
 
